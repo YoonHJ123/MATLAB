@@ -4,7 +4,7 @@ How to use MATLAB simply.
 
 ![MATLAB-logo-768x432](https://github.com/YoonHJ123/MATLAB/assets/149112869/9549d36e-28a1-4e87-9e7c-ec0a76876913)
 
-The MATLAB PPT report was organized by me based on youtube '응용수학자 MATLAB' lecture.
+I organized the MATLAB PPT report by referring to youtube '응용수학자 MATLAB' lecture.
 
 The PPT consists of 9 parts,<br/>
 -> What is MATLAB (매트랩이란)<br/>
